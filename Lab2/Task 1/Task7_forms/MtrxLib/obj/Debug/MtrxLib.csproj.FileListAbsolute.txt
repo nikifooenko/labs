@@ -1,0 +1,5 @@
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\MtrxLib\bin\Debug\MtrxLib.dll
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\MtrxLib\bin\Debug\MtrxLib.pdb
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\MtrxLib\obj\Debug\MtrxLib.csprojAssemblyReference.cache
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\MtrxLib\obj\Debug\MtrxLib.dll
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\MtrxLib\obj\Debug\MtrxLib.pdb

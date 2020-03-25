@@ -1,0 +1,12 @@
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\bin\Debug\Task7_forms.exe.config
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\bin\Debug\Task7_forms.exe
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\bin\Debug\Task7_forms.pdb
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\obj\Debug\Task7_forms.csprojAssemblyReference.cache
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\obj\Debug\Task7_forms.Form1.resources
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\obj\Debug\Task7_forms.Properties.Resources.resources
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\obj\Debug\Task7_forms.csproj.GenerateResource.cache
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\obj\Debug\Task7_forms.exe
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\obj\Debug\Task7_forms.pdb
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\bin\Debug\MtrxLib.dll
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\bin\Debug\MtrxLib.pdb
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 2\задание 1\Task7_forms\obj\Debug\Task7_forms.csproj.CopyComplete

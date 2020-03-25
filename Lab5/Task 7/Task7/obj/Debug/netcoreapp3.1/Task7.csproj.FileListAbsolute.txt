@@ -1,0 +1,10 @@
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\bin\Debug\netcoreapp3.1\Task7.exe
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\bin\Debug\netcoreapp3.1\Task7.deps.json
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.json
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.dev.json
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\bin\Debug\netcoreapp3.1\Task7.dll
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\bin\Debug\netcoreapp3.1\Task7.pdb
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfoInputs.cache
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfo.cs
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\obj\Debug\netcoreapp3.1\Task7.dll
+C:\Users\Matvey\OneDrive\программирование и в.п\c#\лабораторная 5\задание 7\Task7\obj\Debug\netcoreapp3.1\Task7.pdb

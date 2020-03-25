@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7_forms", "Task7_forms.csproj", "{C5039BB8-82D5-4CBB-B8A3-BE227B1E0E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MtrxLib", "MtrxLib\MtrxLib.csproj", "{C57B9A8D-CE6D-4C12-ACB8-603D79810558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5039BB8-82D5-4CBB-B8A3-BE227B1E0E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5039BB8-82D5-4CBB-B8A3-BE227B1E0E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5039BB8-82D5-4CBB-B8A3-BE227B1E0E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5039BB8-82D5-4CBB-B8A3-BE227B1E0E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57B9A8D-CE6D-4C12-ACB8-603D79810558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57B9A8D-CE6D-4C12-ACB8-603D79810558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57B9A8D-CE6D-4C12-ACB8-603D79810558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57B9A8D-CE6D-4C12-ACB8-603D79810558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD9037CC-4ABD-498D-BA56-5AC76939D0E2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 1\Task7\TextHelper\bin\Debug\TextHelper.dll
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 1\Task7\TextHelper\bin\Debug\TextHelper.pdb
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 1\Task7\TextHelper\obj\Debug\TextHelper.csprojAssemblyReference.cache
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 1\Task7\TextHelper\obj\Debug\TextHelper.dll
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 1\Task7\TextHelper\obj\Debug\TextHelper.pdb
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Task7\TextHelper\bin\Debug\TextHelper.dll
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Task7\TextHelper\bin\Debug\TextHelper.pdb
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Task7\TextHelper\obj\Debug\TextHelper.csprojAssemblyReference.cache
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Task7\TextHelper\obj\Debug\TextHelper.dll
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Task7\TextHelper\obj\Debug\TextHelper.pdb

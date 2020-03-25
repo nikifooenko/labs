@@ -1,0 +1,12 @@
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\bin\Debug\Task7.exe.config
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\bin\Debug\Task7.exe
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\bin\Debug\Task7.pdb
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\bin\Debug\TextHelper.dll
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\bin\Debug\TextHelper.pdb
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\obj\Debug\Task7.csprojAssemblyReference.cache
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\obj\Debug\Task7.Form1.resources
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\obj\Debug\Task7.Properties.Resources.resources
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\obj\Debug\Task7.csproj.GenerateResource.cache
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\obj\Debug\Task7.csproj.CopyComplete
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\obj\Debug\Task7.exe
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\Задание 3\Task7\obj\Debug\Task7.pdb

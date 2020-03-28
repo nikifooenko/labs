@@ -1,0 +1,11 @@
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\matve\OneDrive\программирование и в.п\c#\лабораторная 3\задание 2\Var 5\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
